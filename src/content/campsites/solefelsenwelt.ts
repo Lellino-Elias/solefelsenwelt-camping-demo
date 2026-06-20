@@ -96,9 +96,9 @@ const solefelsenwelt: CampsiteConfig = {
         image: { src: `${IMG}/gallery-ca4acfec4b.webp`, alt: "Ruhebereich mit Liegen in der Sole Felsen Welt" },
       },
       {
-        title: "Camping-Shop",
-        text: "Etwas zu Hause vergessen? Im Camping-Shop findest du, was ein Camper unterwegs so braucht.",
-        image: { src: `${IMG}/gallery-1dd675deb2.webp`, alt: "BADEMODENshop der Sole Felsen Welt mit Badebekleidung und Zubehör" },
+        title: "Sanitäranlagen",
+        text: "Gepflegte Sanitäranlagen mit Duschen, WC und Waschraum stehen allen Campinggästen zur Verfügung.",
+        image: { src: `${IMG}/gallery-df5bc325d5.webp`, alt: "Servicegebäude des Campingplatzes der Sole Felsen Welt mit Informationstafel und Waschstationen" },
       },
       {
         title: "Empfang und Check-in",
