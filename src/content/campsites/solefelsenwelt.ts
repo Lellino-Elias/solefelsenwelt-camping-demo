@@ -83,7 +83,7 @@ const solefelsenwelt: CampsiteConfig = {
       {
         title: "Therme zum Vorteilspreis",
         text: "Als Campinggast bekommst du Ermäßigung auf die 4-Stunden- und Tageskarten der Sole Felsen Welt.",
-        image: { src: `${IMG}/amenity-e952acfd55.webp`, alt: "Solebecken im Außenbereich der Sole Felsen Welt" },
+        image: { src: `${IMG}/hero-d1fe795465.webp`, alt: "Panoramablick auf die Innenbecken der Sole Felsen Welt mit blau leuchtenden Pools und gelben Liegen" },
       },
       {
         title: "Becken für jeden Tag",
@@ -98,12 +98,12 @@ const solefelsenwelt: CampsiteConfig = {
       {
         title: "Camping-Shop",
         text: "Etwas zu Hause vergessen? Im Camping-Shop findest du, was ein Camper unterwegs so braucht.",
-        image: { src: `${IMG}/gallery-3577e65bd0.webp`, alt: "Empfang mit Camping-Shop am Campingplatz Sole Felsen Welt" },
+        image: { src: `${IMG}/gallery-1dd675deb2.webp`, alt: "BADEMODENshop der Sole Felsen Welt mit Badebekleidung und Zubehör" },
       },
       {
         title: "Empfang und Check-in",
         text: "Am Empfang der Sole Felsen Welt checkst du ein und bekommst alle Infos für deinen Aufenthalt.",
-        image: { src: `${IMG}/gallery-d1bb6f6ba3.webp`, alt: "Rezeption der Sole Felsen Welt beim Check-in" },
+        image: { src: `${IMG}/gallery-3577e65bd0.webp`, alt: "Empfangsgebäude des Campingplatzes Sole Felsen Welt mit Herzlich-Willkommen-Schild" },
       },
       {
         title: "Sportbecken und Bahnen",
