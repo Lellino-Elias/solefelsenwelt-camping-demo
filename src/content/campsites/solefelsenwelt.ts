@@ -154,7 +154,7 @@ const solefelsenwelt: CampsiteConfig = {
     moreCount: 20,
     images: [
       { src: `${IMG}/amenity-d6694168ca.webp`, alt: "Außenbecken der Sole Felsen Welt im Abendlicht" },
-      { src: `${IMG}/amenity-977e3f59f4.webp`, alt: "Lachendes Paar im Außenbecken der Sole Felsen Welt" },
+      { src: `${IMG}/amenity-e952acfd55.webp`, alt: "Außenbecken der Sole Felsen Welt im Dämmerlicht" },
       { src: `${IMG}/gallery-3e7e6e6ef8.webp`, alt: "Sprudelnder Wasserspielbereich im Außenbereich" },
       { src: `${IMG}/gallery-c67de71595.webp`, alt: "Entspanntes Treiben im Thermalwasser der Sole Felsen Welt" },
     ],
